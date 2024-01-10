@@ -1,0 +1,1 @@
+# easywidgetstag-Nuxt
