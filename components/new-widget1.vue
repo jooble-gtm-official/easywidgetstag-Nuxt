@@ -13,7 +13,7 @@
             <span class="new-widget1-text1">
               <span class="new-widget1-text2">
                 Take
-                <span v-html="rawhnkz"></span>
+                <span v-html="raw00gy"></span>
               </span>
               <span>
                 a quick free test to discover your ideal career and receive a
@@ -60,7 +60,7 @@ export default {
   },
   data() {
     return {
-      rawhnkz: ' ',
+      raw00gy: ' ',
     }
   },
 }
